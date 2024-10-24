@@ -1,0 +1,1 @@
+# local_resource_sharing_is_caring
