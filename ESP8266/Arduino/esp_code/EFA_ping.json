@@ -1,0 +1,28 @@
+[
+{
+ "Label": "hub",
+ "Elaine": "hub"
+},
+{
+ "Label": "no wifi",
+ "Farnsworth": "now",
+ "Alfred": "now"
+},
+{
+ "Label": "ping 1000",
+ "Elaine": "ping 1000",
+ "Farnsworth": "ping 1000",
+ "Alfred": "ping 1000"
+},
+{
+ "Label": "ping 1",
+ "Elaine": "ping 1",
+ "Farnsworth": "ping 1",
+ "Alfred": "ping 1"
+},
+{
+ "Label": "wifi",
+ "Farnsworth": "wifi",
+ "Alfred": "wifi"
+}
+]
