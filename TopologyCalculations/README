@@ -1,0 +1,10 @@
+generate_save_graphs.py creates the topologies
+
+The topologies are saved into .pkl into the following folders:
+CirclePickles LinePickles TripodPickles DogPickles WheelPickles Pickles1 Pickles2 Pickles3
+Create the folders in the same directory
+
+
+plot_load_different_probs.py generates the probabilities from the graphs
+
+Both need to be modified internally to generate the different topologies.
